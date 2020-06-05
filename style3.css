@@ -1,0 +1,22 @@
+.policy{
+    width: 100%;
+    background-color:#0062b3;
+    height: 100px;
+    color: white;
+    display:flex;   
+}
+.link1{
+    
+ padding-left: 600px;
+ padding-top: 40px;
+}
+.entry-title{
+    padding-top: 30px;
+    padding-left: 40px;
+}
+.cont{
+    margin: auto;
+    padding: 10px;
+    width: 90%;
+
+}
